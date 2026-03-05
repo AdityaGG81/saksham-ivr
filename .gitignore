@@ -1,0 +1,4 @@
+app.log
+*.log
+call_logs.csv
+.env
